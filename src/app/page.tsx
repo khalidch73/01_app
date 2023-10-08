@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1 className='font-bold text-6xl text-blue-500 '>
-        Hello world i am khalid nawaz.
+        Hello world i am khalid nawaz choudhary.
       </h1>
       <p>
         Im from batch 47 and learning web-development from PIAIC.
